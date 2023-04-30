@@ -15,6 +15,7 @@
 ![SASS](https://img.shields.io/badge/-SASS-000?&logo=sass)
 ![MaterialUi](https://img.shields.io/badge/-MUI-000?&logo=mui)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-000?&logo=tailwindcss)
+![AntDesign](https://img.shields.io/badge/-AntD-000?&logo=antd)
 ![Git](https://img.shields.io/badge/Git--000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub--000000?style=flat&logo=github&logoColor=FFFFFF)
 
