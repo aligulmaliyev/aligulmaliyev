@@ -27,21 +27,17 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 [![Java](https://img.shields.io/badge/-Java-ED8B00?&logo=java&logoColor=007ACC)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
 
-# Hi, I'm Ali Gulmaliyev 👋
-
-I'm a Middle Software Engineer with 3 years of hands-on Front end experience, and I've worked with a variety of programming languages in a variety of industries. 
-
-## 🔭 My tech stack
-
-ES6+, TypeScript, React (Next.js), Redux, Context API, Recoil, MobX, GraphQL, React Query, Angular, RxJS, Tailwind, Material UI, AntD
-
 ## 📫 How to reach me
 
 If you'd like to get in touch, you can reach me via [ali.gulmaliyew@gmail.com](mailto:ali.gulmaliyew@gmail.com) . I'm always open to connecting with fellow developers and tech enthusiasts.
 
+ 
+<h2 align="center">Github Statistics </h2>
 
-## 📈 My GitHub Stats
+|💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
+|-----------------------------------|----------------------------------|
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aligulmaliyev&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/utkarsh575)|[![aligulmaliyev's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=aligulmaliyev&theme=midnight-purple&hide_border=true)](https://github.com/aligulmaliyev)
+|[![aligulmaliyev's GitHub stats](https://github-readme-stats.vercel.app/api?username=aligulmaliyev&show_icons=true&theme=ayu-mirage&hide_title=true)](https://github.com/aligulmaliyev)|<h1 >Visits: </h1> ![Visitor Count](https://profile-counter.glitch.me/aligulmaliyev/count.svg)
 
-[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aligulmaliyev&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Thank you for visiting my GitHub profile! I look forward to connecting with you.
