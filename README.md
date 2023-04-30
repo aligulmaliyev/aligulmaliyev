@@ -1,5 +1,5 @@
 
-[![me](https://img.shields.io/badge/Igwe%20Acha-FrontEnd%20Engineer-blue?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/maziigwe)
+[![me](https://img.shields.io/badge/Igwe%20Acha-FrontEnd%20Engineer-blue?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/aligulmaliyev)
 
 ### Main Languages/Stack:
 
