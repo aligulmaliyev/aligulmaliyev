@@ -10,7 +10,11 @@
 ### Technologies I have worked with:
 
 ![React.js](https://img.shields.io/badge/-React.js-000?&logo=react) 
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular)
+![NextJs](https://img.shields.io/badge/-NextJs-000?&logo=nextjs)
 ![Redux](https://img.shields.io/badge/-redux-000?&logo=redux) 
+![Recoil](https://img.shields.io/badge/-Recoil-000?&logo=recoil)
+![MobX](https://img.shields.io/badge/-MobX-000?&logo=mobx)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap) 
 ![SASS](https://img.shields.io/badge/-SASS-000?&logo=sass)
 ![MaterialUi](https://img.shields.io/badge/-MUI-000?&logo=mui)
