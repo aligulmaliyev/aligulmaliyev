@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="280" viewBox="0 0 880 280" role="img" aria-label="Top languages: TypeScript 91%, JavaScript 4%, HTML 4%, Other 0%. Recently pushed: nestjs-builder, personality-test, get-images-from-pdf, exam-app.">
+<title>Top languages: TypeScript 91%, JavaScript 4%, HTML 4%, Other 0%. Recently pushed: nestjs-builder, personality-test, get-images-from-pdf, exam-app.</title>
+<style>
+text{font-family:ui-monospace,'SF Mono',SFMono-Regular,'JetBrains Mono','Cascadia Code',Menlo,Consolas,'Liberation Mono',monospace;fill:#ece8df}
+.mu{fill:#a19c90}.fa{fill:#69655b}.ac{fill:#d97757}.sa{fill:#dcae78}.sg{fill:#97b583}.b{font-weight:700}
+.fi{animation:fi .55s ease-out both}
+.dr{stroke-dasharray:1;animation:dr 1.3s cubic-bezier(.3,.7,.2,1) both}
+@keyframes fi{from{opacity:0}}
+@keyframes dr{from{stroke-dashoffset:1}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect x=".5" y=".5" width="879" height="279" rx="14" fill="#1c1b18" stroke="#36342e"/>
+<text x="28" y="40" font-size="14" class="fi" style="animation-delay:0s"><tspan class="ac">●</tspan> <tspan class="b">Grep</tspan><tspan class="mu">(languages --by-bytes)</tspan></text>
+<text x="410" y="40" font-size="12" text-anchor="end" class="mu fi">5 repos</text>
+<text x="34" y="80" font-size="13" class="fa fi">⎿</text>
+<g class="fi" style="animation-delay:0.15s"><text x="58" y="80" font-size="13">TypeScript</text><text x="410" y="80" font-size="12" text-anchor="end" class="mu">91.5%</text><line x1="60" y1="90" x2="408" y2="90" stroke="#36342e" stroke-width="4" stroke-linecap="round"/><line x1="60" y1="90" x2="378" y2="90" stroke="#d97757" stroke-width="4" stroke-linecap="round" pathLength="1" class="dr" style="animation-delay:0.3s"/></g>
+<g class="fi" style="animation-delay:0.23s"><text x="58" y="110" font-size="13">JavaScript</text><text x="410" y="110" font-size="12" text-anchor="end" class="mu">4.2%</text><line x1="60" y1="120" x2="408" y2="120" stroke="#36342e" stroke-width="4" stroke-linecap="round"/><line x1="60" y1="120" x2="70.8" y2="120" stroke="#dcae78" stroke-width="4" stroke-linecap="round" pathLength="1" class="dr" style="animation-delay:0.38s"/></g>
+<g class="fi" style="animation-delay:0.31s"><text x="58" y="140" font-size="13">HTML</text><text x="410" y="140" font-size="12" text-anchor="end" class="mu">4.1%</text><line x1="60" y1="150" x2="408" y2="150" stroke="#36342e" stroke-width="4" stroke-linecap="round"/><line x1="60" y1="150" x2="70.4" y2="150" stroke="#97b583" stroke-width="4" stroke-linecap="round" pathLength="1" class="dr" style="animation-delay:0.46s"/></g>
+<g class="fi" style="animation-delay:0.39s"><text x="58" y="170" font-size="13">Other</text><text x="410" y="170" font-size="12" text-anchor="end" class="mu">0.2%</text><line x1="60" y1="180" x2="408" y2="180" stroke="#36342e" stroke-width="4" stroke-linecap="round"/><line x1="60" y1="180" x2="60.2" y2="180" stroke="#88abd0" stroke-width="4" stroke-linecap="round" pathLength="1" class="dr" style="animation-delay:0.54s"/></g>
+<path d="M440.5 58V254" stroke="#36342e"/>
+<text x="468" y="40" font-size="14" class="fi" style="animation-delay:0.1s"><tspan class="ac">●</tspan> <tspan class="b">Read</tspan><tspan class="mu">(repos --recent)</tspan></text>
+<text x="852" y="40" font-size="12" text-anchor="end" class="mu fi">★ 3</text>
+<text x="474" y="80" font-size="13" class="fa fi">⎿</text>
+<g class="fi" style="animation-delay:0.25s"><text x="494" y="80" font-size="13.5" class="b">nestjs-builder</text><text x="852" y="80" font-size="11.5" text-anchor="end" class="mu"><tspan fill="#d97757">● </tspan>TypeScript · ★ 3 · 1y ago</text><text x="494" y="99" font-size="12" class="mu">no description</text></g>
+<g class="fi" style="animation-delay:0.35s"><text x="494" y="126" font-size="13.5" class="b">personality-test</text><text x="852" y="126" font-size="11.5" text-anchor="end" class="mu"><tspan fill="#d97757">● </tspan>TypeScript · 1y ago</text><text x="494" y="145" font-size="12" class="mu">no description</text></g>
+<g class="fi" style="animation-delay:0.45s"><text x="494" y="172" font-size="13.5" class="b">get-images-from-pdf</text><text x="852" y="172" font-size="11.5" text-anchor="end" class="mu"><tspan fill="#d97757">● </tspan>TypeScript · 1y ago</text><text x="494" y="191" font-size="12" class="mu">no description</text></g>
+<g class="fi" style="animation-delay:0.55s"><text x="494" y="218" font-size="13.5" class="b">exam-app</text><text x="852" y="218" font-size="11.5" text-anchor="end" class="mu"><tspan fill="#d97757">● </tspan>TypeScript · 2y ago</text><text x="494" y="237" font-size="12" class="mu">no description</text></g>
+</svg>
