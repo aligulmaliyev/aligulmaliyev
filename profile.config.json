@@ -2,14 +2,38 @@
   "name": "",
   "role": "Lead Frontend Engineer @ ABB",
   "location": "Baku, Azerbaijan",
-  "tagline": "backend roots in Java & Spring · ships products with Claude",
+  "tagline": "React & TypeScript first · Java/Spring when needed · ships products with Claude",
   "prompt": "claude \"introduce yourself to whoever's reading\"",
   "facts": [
-    { "key": "building", "value": "kampus.az — management SaaS for tutors & tutoring centers" },
-    { "key": "studying", "value": "MBA, Digital Business Administration · UNEC '26" },
-    { "key": "stack", "value": "Java · Spring Boot · Camunda · ArgoCD · LiveKit · Claude" },
-    { "key": "open to", "value": "relocation" }
+    {
+      "key": "building",
+      "value": "kampus.az — management SaaS for tutors & tutoring centers"
+    },
+    {
+      "key": "frontend",
+      "value": "React · Next.js · TypeScript · Tailwind CSS · Vite · Zustand"
+    },
+    {
+      "key": "backend",
+      "value": "Java · Spring Boot · NestJS · Camunda"
+    },
+    {
+      "key": "ai",
+      "value": "Claude · LiveKit"
+    },
+    {
+      "key": "open to",
+      "value": "relocation"
+    }
   ],
-  "repos": { "count": 4, "exclude": [] },
-  "languages": { "count": 6, "exclude": [] }
+  "timezone": "Asia/Baku",
+  "repos": {
+    "count": 4,
+    "exclude": []
+  },
+  "languages": {
+    "count": 6,
+    "exclude": [],
+    "includePrivate": true
+  }
 }

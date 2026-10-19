@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="100" viewBox="0 0 880 100" role="img" aria-label="Languages and recent repositories">
-<title>Languages and recent repositories</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="100" viewBox="0 0 880 100" role="img" aria-label="Commit rhythm">
+<title>Commit rhythm</title>
 <style>
 text{font-family:ui-monospace,'SF Mono',SFMono-Regular,'JetBrains Mono','Cascadia Code',Menlo,Consolas,'Liberation Mono',monospace;fill:#ece8df}
 .mu{fill:#a19c90}.fa{fill:#69655b}.ac{fill:#d97757}.sa{fill:#dcae78}.sg{fill:#97b583}.b{font-weight:700}
@@ -9,7 +9,7 @@ text{font-family:ui-monospace,'SF Mono',SFMono-Regular,'JetBrains Mono','Cascadi
 @keyframes dr{from{stroke-dashoffset:1}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
 <rect x=".5" y=".5" width="879" height="99" rx="14" fill="#1c1b18" stroke="#36342e"/>
-<text x="28" y="40" font-size="14" class="fi" style="animation-delay:0s"><tspan class="ac">●</tspan> <tspan class="b">Grep</tspan><tspan class="mu">(languages --by-bytes)</tspan></text>
-<text x="34" y="74" font-size="13" class="fa">⎿</text>
+<text x="28" y="40" font-size="14" class="fi" style="animation-delay:0s"><tspan class="ac">●</tspan> <tspan class="b">Bash</tspan><tspan class="mu">(git log --author=me --date=format:%H)</tspan></text>
+<text x="34" y="74" font-size="13" class="fa fi">⎿</text>
 <text x="58" y="74" font-size="13" class="mu">waiting for the first run of .github/workflows/profile.yml…</text>
 </svg>
